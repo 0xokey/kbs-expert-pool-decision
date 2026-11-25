@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+csv_data/*.csv
+results/*
+!results/plot_*.py
+*.pth
+*.pt
+*.npz
+*.log
+.DS_Store
